@@ -1,0 +1,30 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
+.text-indigo-500 {
+  color: #6777ef;
+}
+
+.bg-indigo-600 {
+  background-color: #4263eb;
+}
+
+.bg-gray-900 {
+  background-color: #202023;
+}
+
+.border-indigo-500 {
+  border-color: #6777ef;
+}
+
+.focus:ring-indigo-500 {
+  /* Adjust ring color and width as needed */
+  ring-color: #6777ef;
+  ring-width: 2px;
+}
+
+.hover:bg-indigo-200 {
+  background-color: #d1e7ff;
+}
